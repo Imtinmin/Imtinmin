@@ -1,6 +1,10 @@
 ### Hi,I'm tinmin 👋
 
 
+- 🏫 College Student
+- ⚡ Focus on Web Security
+
+
 ### Contact me
 
 - 954093370@qq.com
